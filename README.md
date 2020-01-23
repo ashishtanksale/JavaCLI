@@ -11,7 +11,7 @@ Basic MySQL knowledge, including an installed version of MySQL workbench.
 
 How Does this application Work?
 
-User can create table of his choice or either connect to existing table, When the application will start, User will be asked to enter the operation no., 1 for fetch and 0 to terminate the program. If user enters 1, Then user has to enter db name and table name. It will take configuration from .properties file and connect to database. Then it will fetch the data from the given table and load the data to CSV file.   
+User can create table of his choice or either connect to existing table, When the application will start, User will be asked to enter the operation no., 1 for fetch and 0 to terminate the program. If user enters 1, Then user has to enter db name and table name. It will take configuration from .properties file and connect to database. Then it will fetch the data from the given table and load the data to CSV file. This application has been developed on windows.  
 
 How to run this application?
 
